@@ -4,7 +4,7 @@
     <parent>
         <groupId>be.bitronix.btm</groupId>
         <artifactId>btm-parent</artifactId>
-        <version>3.0.0-SNAPSHOT</version>
+        <version>3.0.0.Omnifone-SNAPSHOT</version>
     </parent>
     <artifactId>btm-spring</artifactId>
     <name>Bitronix Transaction Manager :: Spring Integration</name>
